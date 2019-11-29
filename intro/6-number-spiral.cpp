@@ -1,7 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 typedef unsigned long ul;
 typedef unsigned long long ull;
+
 int main() {
 	long t;
 	scanf("%ld", &t);
